@@ -62,4 +62,5 @@ public class Aluno {
     public void exibirAluno() {
         System.out.printf("Nome=" + this.nome + ", Situacao=" + this.aprovado + ", Media= %.1f %n " , this.media);
     }
+
 }
